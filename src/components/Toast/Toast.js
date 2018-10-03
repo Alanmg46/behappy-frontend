@@ -29,4 +29,3 @@ class Toast extends Component {
 }
 
 export default Toast;
-

@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 export default function Input(props) {
   const style = {
@@ -14,6 +14,5 @@ export default function Input(props) {
       style={style}
       {...properties}
     />
-  ); 
+  );
 }
-

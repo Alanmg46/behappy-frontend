@@ -209,4 +209,3 @@ class ImageScroller extends React.Component {
 }
 
 export default ImageScroller;
-

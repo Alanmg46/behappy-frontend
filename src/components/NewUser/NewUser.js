@@ -188,4 +188,3 @@ class NewUser extends Component {
 }
 
 export default NewUser;
-

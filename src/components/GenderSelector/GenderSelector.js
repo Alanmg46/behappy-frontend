@@ -13,7 +13,7 @@ export default function GenderSelector(props) {
     padding: '3px',
     paddingBottom: '0'
   };
- 
+
   return (
     <div style={style}>
       <GenderButton
